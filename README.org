@@ -1,10 +1,14 @@
 #+title: Platformer Game
 #+author: Lucas S. Vieira
+#+startup: inlineimages
 
 * Overview
 
 This is  a platformer  game created from  GDQuest's series  "Make Your
 First 2D Game with Godot".
+
+#+attr_org: :width 300
+[[file:./screenshot/screenshot.png]]
 
 This project does everything described  in the three free videos, plus
 adds some  configuration for  touch input, and  enables the  player to
