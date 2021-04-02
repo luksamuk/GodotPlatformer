@@ -10,3 +10,8 @@ data_*/
 
 # Android stuff
 android/
+
+# Emacs stuff
+*~
+*#*#
+

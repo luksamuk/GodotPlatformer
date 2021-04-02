@@ -1,0 +1,27 @@
+#+title: Platformer Game
+#+author: Lucas S. Vieira
+
+* Overview
+
+This is  a platformer  game created from  GDQuest's series  "Make Your
+First 2D Game with Godot".
+
+This project does everything described  in the three free videos, plus
+adds some  configuration for  touch input, and  enables the  player to
+jump higher when the jump button is held after stomping an enemy.
+
+The videos can be found here:
+
+- [[https://www.youtube.com/watch?v=Mc13Z2gboEk][Part 1]]
+- [[https://www.youtube.com/watch?v=6ziIyx60N6I][Part 2]]
+- [[https://www.youtube.com/watch?v=mjWwWIEyib8][Part 3]]
+
+You can find  the resources for the  project on [[https://github.com/GDQuest/godot-beginner-2d-platformer/releases/tag/1.1.0][this link]],  or you may
+visit the repository [[https://github.com/GDQuest/godot-beginner-2d-platformer][here]].
+
+* License
+
+While the assets were not created by me (and can be found on the links
+above), and the code is also almost  identical to the one shown in the
+free tutorial, the code here is provided under the MIT License.
+
